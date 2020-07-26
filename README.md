@@ -15,8 +15,11 @@
 - Введите имя и поле даты. Пропустить только, если выбрана дата и непустое имя.
 - Подборка фотографий с камеры или галереи.
 
-![Image alt](https://github.com/ArtemPozdnyakov/CraftYourProfile/blob/master/WelcomScreen.png)
-![Image alt](https://github.com/ArtemPozdnyakov/CraftYourProfile/blob/master/PhoneScreen.png)
-![Image alt](https://github.com/ArtemPozdnyakov/CraftYourProfile/blob/master/PinCodeScreen.png)
-![Image alt](https://github.com/ArtemPozdnyakov/CraftYourProfile/blob/master/UserInfoScreen.png)
-![Image alt](https://github.com/ArtemPozdnyakov/CraftYourProfile/blob/master/PhotoUserScreen.png)
+
+![Image alt](https://github.com/ArtemPozdnyakov/CraftYourProfile/blob/master/Screen%20Shot%202020-07-26%20at%203.14.59%20PM.png)
+![Image alt](https://github.com/ArtemPozdnyakov/CraftYourProfile/blob/master/Screen%20Shot%202020-07-26%20at%203.20.50%20PM.png)
+![Image alt](https://github.com/ArtemPozdnyakov/CraftYourProfile/blob/master/Screen%20Shot%202020-07-26%20at%203.23.20%20PM.png)
+![Image alt](https://github.com/ArtemPozdnyakov/CraftYourProfile/blob/master/Screen%20Shot%202020-07-26%20at%203.16.21%20PM.png)
+![Image alt](https://github.com/ArtemPozdnyakov/CraftYourProfile/blob/master/Screen%20Shot%202020-07-26%20at%203.17.12%20PM.png)
+![Image alt](https://github.com/ArtemPozdnyakov/CraftYourProfile/blob/master/Screen%20Shot%202020-07-26%20at%203.17.30%20PM.png)
+![Image alt](https://github.com/ArtemPozdnyakov/CraftYourProfile/blob/master/Screen%20Shot%202020-07-26%20at%203.17.47%20PM.png)
