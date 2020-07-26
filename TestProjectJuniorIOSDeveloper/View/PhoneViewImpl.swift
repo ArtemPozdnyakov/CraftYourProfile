@@ -60,7 +60,7 @@ class PhoneViewImpl: UIView, PhoneViewProtocol {
         $0.font = .sfCompactRounded20()
         $0.leftView = UIView(frame: CGRect(x: 0, y: 0, width: 15, height: $0.frame.height))
         $0.leftViewMode = .always
-        $0.withExamplePlaceholder = true
+        $0.withExamplePlaceholder = false
         $0.withPrefix = false
         return $0
     }(PhoneNumberTextField())

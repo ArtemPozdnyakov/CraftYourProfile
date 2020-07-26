@@ -5,19 +5,25 @@
       location = "container:"
       name = "Screens">
       <FileRef
-         location = "group:PhoneScreen.png">
+         location = "group:Screen Shot 2020-07-26 at 3.14.59 PM.png">
       </FileRef>
       <FileRef
-         location = "group:PhotoUserScreen.png">
+         location = "group:Screen Shot 2020-07-26 at 3.16.21 PM.png">
       </FileRef>
       <FileRef
-         location = "group:PinCodeScreen.png">
+         location = "group:Screen Shot 2020-07-26 at 3.17.12 PM.png">
       </FileRef>
       <FileRef
-         location = "group:UserInfoScreen.png">
+         location = "group:Screen Shot 2020-07-26 at 3.17.30 PM.png">
       </FileRef>
       <FileRef
-         location = "group:WelcomScreen.png">
+         location = "group:Screen Shot 2020-07-26 at 3.17.47 PM.png">
+      </FileRef>
+      <FileRef
+         location = "group:Screen Shot 2020-07-26 at 3.20.50 PM.png">
+      </FileRef>
+      <FileRef
+         location = "group:Screen Shot 2020-07-26 at 3.23.20 PM.png">
       </FileRef>
    </Group>
    <FileRef
