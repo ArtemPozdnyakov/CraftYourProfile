@@ -1,0 +1,25 @@
+PODS:
+  - PhoneNumberKit (3.2.0):
+    - PhoneNumberKit/PhoneNumberKitCore (= 3.2.0)
+    - PhoneNumberKit/UIKit (= 3.2.0)
+  - PhoneNumberKit/PhoneNumberKitCore (3.2.0)
+  - PhoneNumberKit/UIKit (3.2.0):
+    - PhoneNumberKit/PhoneNumberKitCore
+  - PinLayout (1.9.2)
+
+DEPENDENCIES:
+  - PhoneNumberKit (~> 3.1)
+  - PinLayout
+
+SPEC REPOS:
+  trunk:
+    - PhoneNumberKit
+    - PinLayout
+
+SPEC CHECKSUMS:
+  PhoneNumberKit: df411d46177d1492da84e10b6c093846dd861452
+  PinLayout: 0d96022e46e8b80468d819f182a393b97ca038da
+
+PODFILE CHECKSUM: f188f11d78c332f835cbfb7c771eb09e00300504
+
+COCOAPODS: 1.9.0.beta.3
