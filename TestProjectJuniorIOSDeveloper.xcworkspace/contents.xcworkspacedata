@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <Group
+      location = "container:"
+      name = "Screens">
+      <FileRef
+         location = "group:PhoneScreen.png">
+      </FileRef>
+      <FileRef
+         location = "group:PhotoUserScreen.png">
+      </FileRef>
+      <FileRef
+         location = "group:PinCodeScreen.png">
+      </FileRef>
+      <FileRef
+         location = "group:UserInfoScreen.png">
+      </FileRef>
+      <FileRef
+         location = "group:WelcomScreen.png">
+      </FileRef>
+   </Group>
    <FileRef
       location = "group:TestProjectJuniorIOSDeveloper.xcodeproj">
    </FileRef>
