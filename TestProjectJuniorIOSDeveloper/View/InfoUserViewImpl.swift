@@ -69,6 +69,7 @@ class InfoUserViewImpl: UIView, InfoUserViewProtocol {
     
     internal var datePickerView: UIDatePicker = {
         $0.datePickerMode = .date
+        $0.preferredDatePickerStyle = .wheels
         $0.maximumDate = Date()
         $0.isHidden = true
         return $0

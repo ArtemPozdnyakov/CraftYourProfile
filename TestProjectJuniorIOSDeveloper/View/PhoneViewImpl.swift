@@ -46,12 +46,14 @@ class PhoneViewImpl: UIView, PhoneViewProtocol {
                               font: .sfCompactRounded20())
     private let numberPhoneView = UIView()
     
+    
     internal var codeButton = UIButton(text: "+999",
                               tintColor: #colorLiteral(red: 0.2605174184, green: 0.2605243921, blue: 0.260520637, alpha: 1),
                               cornerRadius: 0,
                               backgroundColor: #colorLiteral(red: 0.9453558326, green: 0.9448245764, blue: 0.9622151256, alpha: 1),
                               font: .sfCompactRounded20(),
                               textAlignmemt: .center)
+    
     
     internal var phoneTextField: PhoneNumberTextField = {
         $0.textColor = #colorLiteral(red: 0.2605174184, green: 0.2605243921, blue: 0.260520637, alpha: 1)

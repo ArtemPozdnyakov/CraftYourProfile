@@ -115,7 +115,7 @@ class StartViewImpl: UIView, StartViewProtocol {
     func initViews() {
         backgroundColor = #colorLiteral(red: 0.1904361844, green: 0.3712905049, blue: 0.8902673125, alpha: 1)
         
-        smailView.pin(to: self).hCenter().top(270).height(73).width(73)
+        smailView.pin(to: self).hCenter().vCenter(-120).height(73).width(73)//top(270).height(73).width(73)
         craftYourProfileLable.pin(to: self).below(of: smailView, aligned: .center).marginTop(30).width(300).height(20)
         infoCraftYour.pin(to: self).below(of: craftYourProfileLable, aligned: .center).marginTop(15).width(300).height(50)
         letsGoButton.pin(to: self).below(of: infoCraftYour, aligned: .center).marginTop(30).width(200).height(50)

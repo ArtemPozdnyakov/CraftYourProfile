@@ -13,7 +13,7 @@ protocol UpdatePinCode: class {
     func updatePin(pin: String)
 }
 
-class PhoneViewController: UIViewController, UpdateCodePhoneDelegat {
+class PhoneViewController: UIViewController, UpdateCodePhoneDelegat {    
     
     private let phoneView: PhoneViewProtocol
     private let countryCodeTableController: CountryCodeTableViewController
@@ -61,7 +61,7 @@ class PhoneViewController: UIViewController, UpdateCodePhoneDelegat {
                 break
             }
         }
-        phoneView.codeButton.titleLabel?.text = codeNumber
+        phoneView.codeButton.setTitle(codeNumber, for: .normal)
     }
     
     @objc func go2VC() {
